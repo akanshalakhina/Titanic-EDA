@@ -36,7 +36,7 @@ This project involves performing **Exploratory Data Analysis (EDA)** on the Tita
 
 ## 📷 Sample Visualizations
 
-![Heatmap of Missing Values](images/missing_data_heatmap.png)  
+![Heatmap of Missing Values](heatmap.png)  
 ![Age Distribution](images/age_distribution.png)
 
 
